@@ -1,1 +1,2 @@
-/Users/fengh/Documents/RDS/Blog/hugo/public/robots.txt
+User-agent: *
+Disallow: /
